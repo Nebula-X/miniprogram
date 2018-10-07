@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "设备信息",
+  "usingComponents": {
+    "i-button": "../../../static/iview/button/index",
+    "i-message": "../../../static/iview/message/index",
+    "i-modal": "../../../static/iview/modal/index"
+  }
+}

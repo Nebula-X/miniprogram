@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "工艺",
+  "usingComponents": {
+    "i-button": "../../../static/iview/button/index",
+    "i-message": "../../../static/iview/message/index",
+    "i-icon": "../../../static/iview/icon/index"
+  }
+}
